@@ -20,7 +20,12 @@ var app = new Framework7({
 		path: '/home/',
     	url: 'index.html',
     	name: 'home',
-  		}
+  		},
+		{
+		path: '/categorias/',
+		url: 'categorias.html',
+		name: 'categorias',
+			}
 		
 	],
 	popup: {
